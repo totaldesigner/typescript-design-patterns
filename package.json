@@ -1,0 +1,7 @@
+{
+  "name": "typescript-design-patterns",
+  "description": "TypeScript Design Patterns",
+  "scripts": {
+    "build": "tsc"
+  }
+}
